@@ -1,6 +1,10 @@
+<head>
 Matthew Parker
 ==============
+<title>Matthew Parker CV</title>
+</head>
 
+<main>
 -------------------------------      -------------------------------------------  
 The University of Sheffield                             mparker2@sheffield.ac.uk  
 Firth Court                                                        07423 850 680  
@@ -77,6 +81,8 @@ serving.
 | Department of Molecular Biology | Department of Biomedical Science |
 | The University of Sheffield     | The University of Sheffield      |
 | k.sorefan@sheffield.ac.uk       | m.milo@sheffield.ac.uk           |
+
+</main>
 
 [LinkedIn]: https://uk.linkedin.com/in/mparker02
 [Twitter]: https://twitter.com/1m1a2t
